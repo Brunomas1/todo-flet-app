@@ -52,12 +52,6 @@ pip install flet
 ### 4. Execute o app
 
 ```bash
-flet run main.py
-```
-
-Ou, se estiver na pasta `src`:
-
-```bash
 flet run src/main.py
 ```
 

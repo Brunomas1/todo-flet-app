@@ -74,7 +74,12 @@ flet run src/main.py
 
 ## 🙌 Contribuição e Licença
 
-Este é um projeto aberto e de livre uso, desenvolvido para fins educacionais. Está disponível para toda a comunidade e pode ser utilizado modificado e aprimorado por qualquer pessoa. Sugestões e melhorias são sempre bem-vindas, se você encontrar algum problema ou tiver ideias para novas funcionalidades sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Este é um projeto aberto e de livre uso, desenvolvido para fins educacionais. Está disponível para toda a comunidade e pode ser utilizado, modificado e aprimorado por qualquer pessoa.
+
+Sugestões e melhorias são sempre bem-vindas. Se você encontrar algum problema ou tiver ideias para novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+Este projeto está licenciado sob a [Licença MIT](./LICENSE), o que significa que é fornecido **"no estado em que se encontra", sem garantias de qualquer tipo**.  
+Criado por **Bruno Monteiro de Andrade Silva** ([brunomas1](https://github.com/brunomas1)).
 
 ---
 #

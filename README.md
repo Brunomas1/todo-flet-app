@@ -66,6 +66,12 @@ flet run src/main.py
 
 ---
 
+##  📸 Preview
+![Descrição da Imagem](tododark.png)
+![Descrição da Imagem](todolight.png)
+
+---
+
 ## 🙌 Contribuições
 
 Contribuições são bem-vindas!  

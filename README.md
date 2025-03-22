@@ -74,8 +74,7 @@ flet run src/main.py
 
 ## 🙌 Contribuições
 
-Contribuições são bem-vindas!  
-Sinta-se à vontade para abrir issues ou enviar pull requests.
+Este é um projeto aberto e de livre uso, desenvolvido para fins educacionais. Está disponível para toda a comunidade e pode ser utilizado, modificado e aprimorado por qualquer pessoa. Sugestões e melhorias são sempre bem-vindas, se você encontrar algum problema ou tiver ideias para novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ---
 #
